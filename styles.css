@@ -1,0 +1,52 @@
+body {
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    margin-left: 20px;
+    padding: 0;
+    background-color: rgba(241, 227, 187, 0.683);
+}
+
+h1, h2 {
+    color: #d43838;
+}
+
+#test {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+#test h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#test p {
+    color: #666;
+    margin-bottom: 20px;
+}
+
+#testForm {
+    list-style: none;
+    padding: 0;
+}
+
+.checkbox-item {
+    margin-bottom: 10px;
+}
+
+input[type="checkbox"] {
+    margin-right: 10px;
+}
+
+label {
+    display: inline-block;
+    cursor: pointer;
+    color: #333;
+    font-size: 16px;
+}
+
+footer {
+    background-color: #f0f0f0;
+    padding: 20px 0;
+    text-align: center;
+}
